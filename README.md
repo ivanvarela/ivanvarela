@@ -7,7 +7,7 @@ Systems Engineer with a Postgraduate degree from IESA (Venezuela), specialized i
 Currently Director of Business Intelligence, I’m passionate about designing and building **scalable web solutions** using **Python** and **Django**, and exploring new technologies for impactful projects.
 
 - 📍 Location: Mexico City, Mexico  
-- 🎓 Education: Systems Engineering, Postgraduate at IESA and Diplomma from Emeritus/Columbia  
+- 🎓 Education: Postgraduate in Systems Engineering from IESA (Venezuela) and Diploma from Emeritus in partnership with Columbia University (New York, USA)
 - 🌐 Interests: Full-Stack Development, BI, ML, automation, RESTful APIs  
 - 🗣️ Languages: English (fluent), Spanish (native)
 
@@ -23,16 +23,16 @@ Currently Director of Business Intelligence, I’m passionate about designing an
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="30"/>
 </p>
 
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanvarelat&show_icons=true&theme=blue)
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanvarelat&layout=compact&theme=blue)
 
 ## 🌱 Currently Working
 - Django, Python, Apache Echarts  
 - Digital Ocean, AWS
+- WordPress on AWS, Newspack migrations
 
 ## 💬 Let’s Talk About
-Python, Django, REST APIs, BI, Machine Learning, Data Science, Horse Racing and Statistic
+Python, Django, REST APIs, BI, Machine Learning, Data Science, Horse Racing, bets and statistics
 
 ## 📫 Get In Touch
 - 🔗 LinkedIn: [ivanvarelat](https://www.linkedin.com/in/ivanvarelat/)  
