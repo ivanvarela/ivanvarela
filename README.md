@@ -17,10 +17,12 @@ Currently Director of Business Intelligence, I’m passionate about designing an
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/DRF-000000?logo=django&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HTMX-ec7fff?logo=htmx&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="30"/>
 </p>
+
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanvarelat&show_icons=true&theme=blue)
